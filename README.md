@@ -1,5 +1,5 @@
 <h1 align="center">
-Null3000
+Ahmed Saeed
 
   
   <h2 align="center">
@@ -82,9 +82,7 @@ Null3000
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
 
-------
-Credit: [Null3000](https://github.com/null3000)
-Last Edited on: 9/6/22
+ 
 
 <!--
 **AhemdSaeed/AhemdSaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
